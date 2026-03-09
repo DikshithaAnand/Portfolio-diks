@@ -106,3 +106,9 @@ To create a production build:
 ```bash
 npm run build
 ```
+
+## Author
+
+**Dikshitha A**
+
+GitHub: https://github.com/DikshithaAnand
