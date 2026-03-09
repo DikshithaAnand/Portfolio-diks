@@ -36,3 +36,73 @@ You can view the portfolio after running the project locally or when deployed on
 ---
 
 ## Project Structure
+
+## Project Structure
+
+```
+my-portfolio/
+│
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+│
+├── package.json
+├── package-lock.json
+└── README.md
+```
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/DikshithaAnand/Portfolio-diks.git
+```
+
+Navigate to the project folder
+
+```bash
+cd Portfolio-diks
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+## Running the Project
+
+Start the development server
+
+```bash
+npm start
+```
+
+Then open:
+
+```
+http://localhost:3000
+```
+
+---
+
+## Build for Production
+
+To create a production build:
+
+```bash
+npm run build
+```
